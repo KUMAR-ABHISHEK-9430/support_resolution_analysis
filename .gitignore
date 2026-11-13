@@ -1,0 +1,13 @@
+code/.venv/
+code/.python/
+code/__pycache__/
+code/tests/__pycache__/
+.pytest_cache/
+documentation/
+.env*
+!.env.example
+*.pem
+*.key
+*.p12
+*.pfx
+*.log
